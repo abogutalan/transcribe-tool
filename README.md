@@ -54,7 +54,7 @@ python -m pip install -r requirements.txt
 ```
 
 ## Program Flow
-![program_flow](https://githubifc.iad.ca.inet/AIengineering/claims-infrastructure-as-code/blob/feature/CAL-1375-Add-Python-script-to-transcribe-audio-files/tools/transcribe_tool/tanscribe_process.png)
+![program_flow](https://github.com/abogutalan/transcribe-tool/blob/master/tanscribe_process.png)
 
 ## Usage
 
