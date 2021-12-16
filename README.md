@@ -1,6 +1,6 @@
 # Transcribe Tool
 
-The purpose of this Transcribe tool is to be able to upload .wav files into an S3 bucket and perform an AWS Transcribe job.  Upon completion, the resulting transcription JSON file can be downloaded.  This tool is meant to help developers get started using AWS Transcribe.
+The purpose of this Transcribe tool is to be able to perform AWS Transcribe on an audio file in S3 bucket.
 
 ## Getting Started
 
